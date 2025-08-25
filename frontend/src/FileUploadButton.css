@@ -1,0 +1,21 @@
+.upload-button {
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    borderRadius: 4px;
+    minWidth: 120px;
+    minHeight: 40px;
+    display: flex;
+    alignItems: center;
+    justifyContent: center;
+    fontSize: 14px;
+    fontWeight: 500;
+}
+
+.uploading {
+    width: 60px;
+    height: 6px;
+    backgroundColor: #e0e0e0;
+    borderRadius: 3px;
+    overflow: hidden;
+}
